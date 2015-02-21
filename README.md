@@ -2,6 +2,7 @@
 
 Some bookmarks and notes to myself.
 
+THIS IS STILL A MESS ;) 
 
 ### JEKYLL
 - https://github.com/screeninteraction/jekyll-multiple-languages-plugin multilingual sites with jekyll
@@ -89,7 +90,7 @@ Then following this articles from this [discussion] [1] :
 - https://github.com/at-import/Singularity-extras
 
 
-- http://www.google.com/fonts/specimen/Karla
+
 - https://github.com/thoughtbot/design-sprint
 
 
@@ -347,6 +348,8 @@ Dafür gibt es verschiedene JS Lösungen.
 ## TOOLS
 
 - http://www.macaw.co/
+- https://webflow.com/
+- http://froont.com/
 - https://creative.adobe.com/de/products/reflow
 
 
@@ -386,4 +389,7 @@ Dafür gibt es verschiedene JS Lösungen.
 
 
 
-
+##FONTS
+- http://www.google.com/fonts/specimen/Karla
+- http://www.google.com/fonts/specimen/Dosis
+- https://typekit.com/fonts/museo-sans
