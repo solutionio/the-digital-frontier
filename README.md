@@ -349,6 +349,10 @@ hier noch definiren was standard und was optional ist
 - https://wordpress.org/plugins/seo-facebook-comments/
 - https://wordpress.org/plugins/facebook-comments-plugin/
 
+## DOCUMENTATION
+Will happen in this repository. A good guide about using markdown on github:
+- [https://guides.github.com/features/mastering-markdown](https://guides.github.com/features/mastering-markdown)
+- Either use iA Writer, Sublime, Atom or a webbased tool like [http://prose.io/](http://prose.io/) to edit markdown files.
 
 
 
