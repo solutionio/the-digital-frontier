@@ -20,6 +20,24 @@ Gesetzt:
 
 - jquery
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+**workflow** ? 
+hier festhalten wie eine workflow idealerweise aussieht
+
+iteration 1
+- workshop
+- style tile (sketch)
+- code
+- release
+
+iteration 2
+- workshop
+- style tile (sketch)
+- code
+- release
+
+…
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -621,7 +639,7 @@ Dafür gibt es verschiedene JS Lösungen.
 - [http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 - [http://paulstamatiou.com/responsive-retina-blog-development-part-1/](http://paulstamatiou.com/responsive-retina-blog-development-part-1/)
 - [http://paulstamatiou.com/responsive-retina-blog-development-part-2/](http://paulstamatiou.com/responsive-retina-blog-development-part-2/)
-
+- [https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html](https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html)
 
 
 - [https://github.com/jensgro/Frontenddevelopment-Resources](https://github.com/jensgro/Frontenddevelopment-Resources)
@@ -632,8 +650,6 @@ Dafür gibt es verschiedene JS Lösungen.
 
 
 ## FONTS I LIKE
-- [http://www.google.com/fonts/specimen/Karla](http://www.google.com/fonts/specimen/Karla)
-- [http://www.google.com/fonts/specimen/Karla](http://www.google.com/fonts/specimen/Karla)
 - [http://www.google.com/fonts/specimen/Karla](http://www.google.com/fonts/specimen/Karla)
 
 
