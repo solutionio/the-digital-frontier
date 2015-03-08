@@ -203,8 +203,11 @@ Use Cases:
 Für jekyll sollte folgendes gelten. Der User kann das Repo forken und sofort loslegen. Falls er das Repo auscheckt > “git clone” sollten nur minimale Abhängigkeiten vorhanden sein. 
 
 Gute Beispiele hierfür:
-- http://www.jekyllnow.com/
-- http://rohanchandra.github.io/project/type/
+- [http://www.jekyllnow.com/](http://www.jekyllnow.com/)
+- [http://rohanchandra.github.io/project/type/](http://rohanchandra.github.io/project/type/)
+
+- [https://github.com/mmistakes/skinny-bones-jekyll](https://github.com/mmistakes/skinny-bones-jekyll) - Theme auf Bourbon / Neat Basis 
+- [https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html](https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html) - Bisschen was zum Bau eines Themes mit jekyll + bourbon
 
 ## JEKYLL RESOURCES
 
@@ -216,7 +219,6 @@ Gute Beispiele hierfür:
 - [http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 - [http://paulstamatiou.com/responsive-retina-blog-development-part-1/](http://paulstamatiou.com/responsive-retina-blog-development-part-1/)
 - [http://paulstamatiou.com/responsive-retina-blog-development-part-2/](http://paulstamatiou.com/responsive-retina-blog-development-part-2/)
-- [https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html](https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html)
 - [https://github.com/screeninteraction/jekyll-multiple-languages-plugin](https://github.com/screeninteraction/jekyll-multiple-languages-plugin) - multilingual sites with jekyll
 
 
@@ -257,10 +259,12 @@ Change following config in /Applications/MAMP/conf/apache/
 
 # Changed for Permalinks in Wordpress
 # AllowOverride is normaly set to none
+```bash
 <Directory />
     Options Indexes FollowSymLinks
     AllowOverride All
 </Directory>
+```
 
 This allows to have proper urls for WPML in local development
 
@@ -299,7 +303,49 @@ hier noch definiren was standard und was optional ist
 - https://wordpress.org/plugins/seo-facebook-comments/
 - https://wordpress.org/plugins/facebook-comments-plugin/
 
+The theme structure should be universal. Either to use jekyll as a static page generator or wordpress as “backends”.
 
+For the jekyll on github-pages usecase the development stack should have only basic requirements. Additional package managers and build tools like npm, bower, grund or gulp should be optional. 
+
+A version to build prototypes and generate styleguides is also possible, to work with github pages the project / theme isn’t contained in a “app” directory yet.
+
+
+
+
+
+
+
+## Dependencies 
+- sass
+- bourbon
++ **jekyll** should be optional > used for first iteration 
++ bitters (optional) > is in gemfile right now
++ neat (optional) > is in gemfile right now
++ refills (optional) > is in gemfile right now
++ **wordpress** + **woocommerce**
+
+To use install optional stuff > bitters / neat / refills please go into _sass
+and use the following commands:
+
+For bourbon
+```bash
+cd _sass
+bourbon install
+```
+
+
+For bitters
+```bash
+cd _sass
+bitters install
+```
+
+
+For neat
+```bash
+cd _sass
+neat install
+```
 
 
 
