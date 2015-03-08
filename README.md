@@ -204,7 +204,41 @@ Use Cases:
 - Wordpress
   + Uberspace
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+## Dependencies 
+- sass
+- bourbon
++ **jekyll** should be optional > used for first iteration 
++ bitters (optional) > is in gemfile right now
++ neat (optional) > is in gemfile right now
++ refills (optional) > is in gemfile right now
++ **wordpress** + **woocommerce**
+
+To use install optional stuff > bitters / neat / refills please go into _sass
+and use the following commands:
+
+For bourbon
+```bash
+cd _sass
+bourbon install
+```
+
+
+For bitters
+```bash
+cd _sass
+bitters install
+```
+
+
+For neat
+```bash
+cd _sass
+neat install
+```
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 ### JEKYLL
@@ -219,7 +253,7 @@ Gute Beispiele hierfür:
 
 ## JEKYLL RESOURCES
 
-- [https://github.com/ixti/jekyll-assets](https://github.com/ixti/jekyll-assets) - 
+- [https://github.com/ixti/jekyll-assets](https://github.com/ixti/jekyll-assets) 
 - [https://github.com/zachalbert/zachalbert.com](https://github.com/zachalbert/zachalbert.com) - fein, nicht barebones - gulp, bower
 - [https://github.com/penibelst/jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html) - html compress für jekyll
 - [https://medium.com/design-open/becoming-a-jekyll-god-ef722e93f771](https://medium.com/design-open/becoming-a-jekyll-god-ef722e93f771) - seiten mit jekyll mit pagespeed 96 von 100 punkten
@@ -246,7 +280,6 @@ Gute Beispiele hierfür:
 ### WORDPRESS WOOCOMMERCE
 - [https://github.com/woothemes/storefront](https://github.com/woothemes/storefront) – Nils J. Nilsson
 - [https://github.com/woothemes/boutique](https://github.com/woothemes/boutique) – Nils J. Nilsson 
-
 
 
 ### WORDPRESS - DEPLOYMENT STUFF
@@ -318,37 +351,7 @@ For the jekyll on github-pages usecase the development stack should have only ba
 A version to build prototypes and generate styleguides is also possible, to work with github pages the project / theme isn’t contained in a “app” directory yet.
 
 
-## Dependencies 
-- sass
-- bourbon
-+ **jekyll** should be optional > used for first iteration 
-+ bitters (optional) > is in gemfile right now
-+ neat (optional) > is in gemfile right now
-+ refills (optional) > is in gemfile right now
-+ **wordpress** + **woocommerce**
 
-To use install optional stuff > bitters / neat / refills please go into _sass
-and use the following commands:
-
-For bourbon
-```bash
-cd _sass
-bourbon install
-```
-
-
-For bitters
-```bash
-cd _sass
-bitters install
-```
-
-
-For neat
-```bash
-cd _sass
-neat install
-```
 
 
 
