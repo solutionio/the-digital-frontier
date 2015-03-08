@@ -249,6 +249,8 @@ Gute Beispiele hierfür:
 - [http://rohanchandra.github.io/project/type/](http://rohanchandra.github.io/project/type/)
 
 - [https://github.com/mmistakes/skinny-bones-jekyll](https://github.com/mmistakes/skinny-bones-jekyll) - Theme auf Bourbon / Neat Basis 
+- [https://github.com/jenmyers/jenmyers.net](https://github.com/jenmyers/jenmyers.net) - Works with bourbon and neat
+- [https://github.com/jenmyers/jekyll-kickoff](https://github.com/jenmyers/jekyll-kickoff) - jekyll kickoff also by jen myers
 - [https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html](https://blog.bolt.co/2013/12/12/building-the-bolt-blog.html) - Bisschen was zum Bau eines Themes mit jekyll + bourbon
 
 ## JEKYLL RESOURCES
