@@ -1,6 +1,28 @@
 # README
 THIS IS STILL A BIG MESS ;)
 
+Gesetz:
+
+- jekyll
+- wordpress
+- magento
+
+- npm
+- bower
+- gulp
+
+- normalize
+- bourbon
+- neat / susy
+- bitters
+- refills
++ pesticide > http://pesticide.io/
+
+- jquery
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 1. Was soll hier passieren?
 > Eine kleine Linksammlung mit Interessantem Material zum bau von Webseiten > **Achtung** nicht Web Applikationen.
@@ -23,6 +45,25 @@ Tools:
 SASS: 
 - bourbon > nicht compass da jekyll projekte auf github pages das css bauen können sollten. dafür muss bourbon aber auch im sass folder liegen > nicht in bower_components
 - neat
+
+
+Standardelemente:
+- Navigation (Off Canvas, Fullscreen, Text,…)
+- Text
+- Einzelbild (Inline, Lightbox)
+- Bildergallerie (Inline, Lightbox)
+- Masonry Grid
+- Fullscreen Video (Inline, Lightbox)
+- Fullscreen Image mit Text drauf
+- Slider (Inline, Fullscreen)
+- Google Maps Karte
+- Sound / Audio Player
+
+Use Cases:
+- Landing Page
+- Corporate Page
+- Portfolio
+- Shop 
 
 
 **ALS BEISPIEL** - Was kann man besser machen?
@@ -192,32 +233,41 @@ This allows to have proper urls for WPML in local development
 
 
 ### WORDPRESS - PLUGINS
-http://www.advancedcustomfields.com/
-http://wp-types.com/
-akismet
-bbpress
-buddypress
-backup buddy
-wpml	
-google xml sitemap
-jetpack
-wp-dbmanager
-google analytics dashboard
-contact form 7
-wp-piwik
-custom login > https://wordpress.org/plugins/custom-login/
-woocommerce
-wpseo 
-wordpress seo plugin von yoast
-w3 total cache
-wp super cache
-regenerate thumbnails
-iThemes Security
-Limit Login Attempts
-disqus comments
-facebook comments
-https://wordpress.org/plugins/seo-facebook-comments/
-https://wordpress.org/plugins/facebook-comments-plugin/
+hier noch definiren was standard und was optional ist
+
+#### STANDARD
+- http://www.advancedcustomfields.com/
+- http://wp-types.com/
+- akismet
+- bbpress
+- buddypress
+- backup buddy
+- wpml	
+- google xml sitemap
+- jetpack
+- wp-dbmanager
+- google analytics dashboard
+- contact form 7
+- wp-piwik
+- custom login > https://wordpress.org/plugins/custom-login/
+- woocommerce
+- wpseo 
+- wordpress seo plugin von yoast
+- w3 total cache
+- wp super cache
+- regenerate thumbnails
+- iThemes Security
+- Limit Login Attempts
+
+
+#### OPTIONAL
+- disqus comments
+- facebook comments
+- https://wordpress.org/plugins/seo-facebook-comments/
+- https://wordpress.org/plugins/facebook-comments-plugin/
+
+
+
 
 
 - [https://github.com/screeninteraction/jekyll-multiple-languages-plugin](https://github.com/screeninteraction/jekyll-multiple-languages-plugin)
