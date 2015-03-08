@@ -310,11 +310,6 @@ For the jekyll on github-pages usecase the development stack should have only ba
 A version to build prototypes and generate styleguides is also possible, to work with github pages the project / theme isn’t contained in a “app” directory yet.
 
 
-
-
-
-
-
 ## Dependencies 
 - sass
 - bourbon
