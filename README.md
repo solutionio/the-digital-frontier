@@ -2,6 +2,10 @@
 
 This repo contains a collection of links and some thoughts on a development workflow & stack to build websites - not web applications. 
 
+The theme structure should be universal. Either to use jekyll as a static page generator or wordpress as “backends”.
+
+For the jekyll on github-pages usecase the development stack should have only basic requirements. Additional package managers and build tools like npm, bower, grunt or gulp should be optional. 
+
 ## TODO
 - [x] create repository
 - [x] add stuff from multiple projects to this repository
@@ -346,11 +350,6 @@ hier noch definiren was standard und was optional ist
 - https://wordpress.org/plugins/seo-facebook-comments/
 - https://wordpress.org/plugins/facebook-comments-plugin/
 
-The theme structure should be universal. Either to use jekyll as a static page generator or wordpress as “backends”.
-
-For the jekyll on github-pages usecase the development stack should have only basic requirements. Additional package managers and build tools like npm, bower, grund or gulp should be optional. 
-
-A version to build prototypes and generate styleguides is also possible, to work with github pages the project / theme isn’t contained in a “app” directory yet.
 
 
 
