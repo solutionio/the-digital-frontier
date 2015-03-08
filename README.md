@@ -1,7 +1,7 @@
 # README
 THIS IS STILL A BIG MESS ;)
 
-Gesetz:
+Gesetzt:
 
 - jekyll
 - wordpress
