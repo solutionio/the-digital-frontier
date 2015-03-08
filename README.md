@@ -1,8 +1,121 @@
-# README #
-
-Some bookmarks and notes to myself.
-
+# README
 THIS IS STILL A MESS ;)
+
+
+1. Was soll hier passieren?
+> Eine kleine Linksammlung mit Interessantem Material zum bau von Webseiten > **Achtung** nicht Web Applikationen.
+2. Umsetzung als Boilerplate / Workflow
+> Standards für verschiedene Themen definieren.
+- “Backend”: Jekyll und Wordpress
+- Hosting: Welche Anbieter
+- Deployment:
+> Jekyll
+> Wordpress
+-  Front-End Architektur
+> Styleguide zum schreiben von HTML / CSS (SASS) / JS
+> Ordnerstruktur die für Jekyll / Wordpress Projekte gleichbleibt. 
+
+Tools:
+> npm
+> bower
+> gulp
+
+
+**ALS BEISPIEL** - Was kann man besser machen?
+<pre style=“max-height: 300px;”><code>Theme Root
+    │    ├── assets
+    │    │   ├── bower_components
+    │    │   |   ├── bi-app-sass
+    │    │   |   ├── bourbon
+    │    │   |   └── neat
+    │    │   ├── css
+    |    |   |    ├── rtl-min.css
+    |    |   |    ├── rtl.css
+    |    |   |    ├── style-min.css
+    |    |   |    └── style.css
+    │    |   └──  js
+    │    │   |    ├── app
+    │    │   |    └── vendor
+    │    |   |    |   ├── flexnav
+    │    |   |    |   ├── hoverintent
+    │    |   |    |   ├── modernizr
+    │    |   |    |   └── selectivizr
+    │    │   |    ├── production-min.js
+    │    │   |    └── development.js
+    │    ├── sass
+    │    |   └── base (Bitters)
+    │    |   └── components
+    |    |    |   ├── _buttons.scss
+    |    |    |   ├── _dashicons.scss
+    |    |    |   ├── _flexnav.scss
+    |    |    |   ├── _navigation.scss
+    |    |    |   ├── _ui-bourbon.scss
+    |    |    |   └── _variables.scss
+    │    |    └── layouts
+    |    |    |   ├── _content.scss
+    |    |    |   ├── _footer.scss
+    |    |    |   ├── _header.scss
+    |    |    |   ├── _navigation.scss
+    |    |    |   ├── _normalize.scss
+    |    |    |   ├── _sidebar.scss
+    |    |    |   ├── _structure.scss
+    |    |    |   └── _typography.scss
+    |    ├── _app.scss
+    |    ├── _grid-settings.scss
+    |    ├── _rtl.scss
+    |    └── style.scss
+    ├── library
+    │   └── languages
+    │   │   ├── some_like_it_neat.pot
+    │   └── vendors
+    │   │   ├── js
+    │   │   ├── tgm-plugin-activation
+    │   │   ├── tha-theme-hooks
+    │   │   └── customizer
+    │   ├── custom-header.php
+    │   ├── extras.php
+    │   ├── jetpack.php
+    │   └── template-tags.php
+    ├── page-templates
+    │     └── partials
+    |     |   ├── content-aside.php
+    |     |   ├── content-audio.php
+    |     |   ├── content-chat.php
+    |     |   ├── content-gallery.php
+    |     |   ├── content-image.php
+    |     |   ├── content-link.php
+    |     |   ├── content-none.php
+    |     |   ├── content-page.php
+    |     |   ├── content-quote.php
+    |     |   ├── content-single.php
+    |     |   ├── content-status.php
+    |     |   ├── content-video.php
+    |     |   └── content.php
+    |     ├── template-full-width.php
+    |     ├── template-left-col.php
+    |     └── template-right-col.php
+    ├── .bowerrc
+    ├── 404.php
+    ├── archive.php
+    ├── comments.php
+    ├── footer.php
+    ├── functions.php
+    ├── gulpfile.js
+    ├── header.php
+    ├── index.php
+    ├── license.txt
+    ├── package.json
+    ├── page.php
+    ├── README.md
+    ├── rtl.css
+    ├── search.png
+    ├── searchform.php
+    ├── sidebar.php
+    ├── single.php
+    └── style.css</code></pre>
+
+
+
 
 
 
