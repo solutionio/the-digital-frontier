@@ -273,18 +273,17 @@ Gute Beispiele hierfür:
 
 
 ### WORDPRESS BOILERPLATES
-- [underscores.me](http://underscores.me) – Nils J. Nilsson
-- [https://github.com/Automattic/_s](https://github.com/Automattic/_s) – Nils J. Nilsson
-- [https://github.com/toddmotto/html5blank](https://github.com/toddmotto/html5blank) – Nils J. Nilsson
-- [https://github.com/digisavvy/some-like-it-neat](https://github.com/digisavvy/some-like-it-neat) – Nils J. Nilsson
-- [https://github.com/wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) – Nils J. Nilsson
-- [https://github.com/roots/sage](https://github.com/roots/sage) – Nils J. Nilsson
-- [https://github.com/bigemployee/BigBlankTheme](https://github.com/bigemployee/BigBlankTheme) – Nils J. Nilsson
+- [underscores.me](http://underscores.me)
+- [https://github.com/Automattic/_s](https://github.com/Automattic/_s) [https://github.com/toddmotto/html5blank](https://github.com/toddmotto/html5blank)
+- [https://github.com/digisavvy/some-like-it-neat](https://github.com/digisavvy/some-like-it-neat)
+- [https://github.com/wp-cli/wp-cli](https://github.com/wp-cli/wp-cli)
+- [https://github.com/roots/sage](https://github.com/roots/sage)
+- [https://github.com/bigemployee/BigBlankTheme](https://github.com/bigemployee/BigBlankTheme)
 - [https://github.com/murtaugh/HTML5-Reset-WordPress-Theme](https://github.com/murtaugh/HTML5-Reset-WordPress-Theme)
 
 
 ### WORDPRESS WOOCOMMERCE
-- [https://github.com/woothemes/storefront](https://github.com/woothemes/storefront) – Nils J. Nilsson
+- [https://github.com/woothemes/storefront](https://github.com/woothemes/storefront)
 - [https://github.com/woothemes/boutique](https://github.com/woothemes/boutique) – Nils J. Nilsson 
 
 
