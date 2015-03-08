@@ -1,5 +1,13 @@
 # README
-THIS IS STILL A BIG MESS ;)
+
+This repo contains a collection of links and some thoughts on a development workflow & stack to build websites - not web applications. 
+
+## TODO
+- [x] create repository
+- [x] add stuff from multiple projects to this repository
+- [x] invite some nice people to collaborate
+- [ ] create first iteration of the toolset
+
 
 Gesetzt:
 
