@@ -1,5 +1,5 @@
 # README
-THIS IS STILL A MESS ;)
+THIS IS STILL A BIG MESS ;)
 
 
 1. Was soll hier passieren?
@@ -19,6 +19,10 @@ Tools:
 > npm
 > bower
 > gulp
+
+SASS: 
+- bourbon > nicht compass da jekyll projekte auf github pages das css bauen können sollten. dafür muss bourbon aber auch im sass folder liegen > nicht in bower_components
+- neat
 
 
 **ALS BEISPIEL** - Was kann man besser machen?
@@ -116,6 +120,11 @@ Tools:
 
 
 
+**ansehen>** 
+- https://github.com/google/web-starter-kit
+- YEOMAN
+- http://yeoman.io/generators/
+- z.B. https://github.com/wesleytodd/YeoPress
 
 
 
@@ -136,8 +145,6 @@ Tools:
 
 
 ### BOURBON & JEKYLL
--
--
 
 
 ### BOURBON & WORDPRESS
@@ -184,6 +191,33 @@ Change following config in /Applications/MAMP/conf/apache/
 This allows to have proper urls for WPML in local development
 
 
+### WORDPRESS - PLUGINS
+http://www.advancedcustomfields.com/
+http://wp-types.com/
+akismet
+bbpress
+buddypress
+backup buddy
+wpml	
+google xml sitemap
+jetpack
+wp-dbmanager
+google analytics dashboard
+contact form 7
+wp-piwik
+custom login > https://wordpress.org/plugins/custom-login/
+woocommerce
+wpseo 
+wordpress seo plugin von yoast
+w3 total cache
+wp super cache
+regenerate thumbnails
+iThemes Security
+Limit Login Attempts
+disqus comments
+facebook comments
+https://wordpress.org/plugins/seo-facebook-comments/
+https://wordpress.org/plugins/facebook-comments-plugin/
 
 
 - [https://github.com/screeninteraction/jekyll-multiple-languages-plugin](https://github.com/screeninteraction/jekyll-multiple-languages-plugin)
