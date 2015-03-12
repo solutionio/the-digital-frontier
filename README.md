@@ -325,7 +325,6 @@ hier noch definiren was standard und was optional ist
 - bbpress
 - buddypress
 - backup buddy
-- wpml	
 - google xml sitemap
 - jetpack
 - wp-dbmanager
@@ -333,7 +332,6 @@ hier noch definiren was standard und was optional ist
 - contact form 7
 - wp-piwik
 - custom login > https://wordpress.org/plugins/custom-login/
-- woocommerce
 - wpseo 
 - wordpress seo plugin von yoast
 - w3 total cache
@@ -341,6 +339,38 @@ hier noch definiren was standard und was optional ist
 - regenerate thumbnails
 - iThemes Security
 - Limit Login Attempts
+
+
+#### MULTILINGUAL
+- WPML Multilingual CMS
+- WPML String Translation
+- WPML Translation Management
+- WPML Media
+
+https://wordpress.org/plugins/woocommerce-multilingual/
+
+#### STORE
+- WooCommerce
+
+#### STORE MULTILINGUAL
+- WooCommerce Multilingual (for usage with WPML)
+- WooCommerce Germanized (kostenlos)
+https://vendidero.de/dokument/woocommerce-germanized-theme-kompatibilitaet
+- WooCommerce German Market
+
+http://wpml.org/de/documentation-3/ahnliche-projekte/woocommerce-multilingual-betreiben-sie-e-commerce-seiten-in-mehreren-sprachen/
+
+#### STORE PLUGINS
+- Rechnungen
+- Lieferscheine
+- Versandlabel > DHL?
+- Video
+- https://marketpress.de/2014/woocommerce-rechnung-lieferschein/?noredirect=de_DE
+
+- http://codecanyon.net/item/shipping-details-plugin-for-woocommerce/2018867
+- http://www.woothemes.com/products/print-invoices-packing-lists/
+
+
 
 
 #### OPTIONAL
