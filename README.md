@@ -6,6 +6,9 @@ The theme structure should be universal. Either to use jekyll as a static page g
 
 For the jekyll on github-pages usecase the development stack should have only basic requirements. Additional package managers and build tools like npm, bower, grunt or gulp should be optional. 
 
+- [http://12factor.net/](http://12factor.net/) - must read
+- [http://archetyped.com/know/redesigning-archetyped-comparing-css-frameworks/](http://archetyped.com/know/redesigning-archetyped-comparing-css-frameworks/)- lightweight bourbon vs heavy foundation
+
 ## TODO
 - [x] create repository
 - [x] add stuff from multiple projects to this repository
@@ -286,6 +289,8 @@ Gute Beispiele hierfür:
 - [https://github.com/woothemes/storefront](https://github.com/woothemes/storefront)
 - [https://github.com/woothemes/boutique](https://github.com/woothemes/boutique) – Nils J. Nilsson 
 
+### WORDPRESS CHILD THEME
+- [http://code.tutsplus.com/tutorials/how-to-modify-the-parent-theme-behavior-within-the-child-theme--wp-31006](http://code.tutsplus.com/tutorials/how-to-modify-the-parent-theme-behavior-within-the-child-theme--wp-31006) - Child Theme Erstellung > Parent Theme Features sauber entfernen. 
 
 ### WORDPRESS - DEPLOYMENT STUFF
 - [https://speakerdeck.com/chluehr/zero-to-hero-en](https://speakerdeck.com/chluehr/zero-to-hero-en) - ganz feiner Talk zu automatisiertem Deployment mit Ansible und Phing
@@ -336,6 +341,7 @@ hier noch definiren was standard und was optional ist
 - wordpress seo plugin von yoast
 - w3 total cache
 - wp super cache
+- [https://wordpress.org/plugins/cachify/](https://wordpress.org/plugins/cachify/) - einfacher zu konfigurieren
 - regenerate thumbnails
 - iThemes Security
 - Limit Login Attempts
@@ -347,7 +353,7 @@ hier noch definiren was standard und was optional ist
 - WPML Translation Management
 - WPML Media
 
-https://wordpress.org/plugins/woocommerce-multilingual/
+- [https://wordpress.org/plugins/woocommerce-multilingual/](https://wordpress.org/plugins/woocommerce-multilingual/)
 
 #### STORE
 - WooCommerce
@@ -360,15 +366,17 @@ https://vendidero.de/dokument/woocommerce-germanized-theme-kompatibilitaet
 
 http://wpml.org/de/documentation-3/ahnliche-projekte/woocommerce-multilingual-betreiben-sie-e-commerce-seiten-in-mehreren-sprachen/
 
+- [http://wpml.org/documentation/theme-compatibility/storefront-wpml-create-a-multilingual-shop/](http://wpml.org/documentation/theme-compatibility/storefront-wpml-create-a-multilingual-shop/) - create a multilingual shop with storefront & wpml
+
 #### STORE PLUGINS
 - Rechnungen
 - Lieferscheine
 - Versandlabel > DHL?
 - Video
-- https://marketpress.de/2014/woocommerce-rechnung-lieferschein/?noredirect=de_DE
+- [https://marketpress.de/2014/woocommerce-rechnung-lieferschein/?noredirect=de_DE](https://marketpress.de/2014/woocommerce-rechnung-lieferschein/?noredirect=de_DE)
 
-- http://codecanyon.net/item/shipping-details-plugin-for-woocommerce/2018867
-- http://www.woothemes.com/products/print-invoices-packing-lists/
+- [http://codecanyon.net/item/shipping-details-plugin-for-woocommerce/2018867](http://codecanyon.net/item/shipping-details-plugin-for-woocommerce/2018867)
+- [http://www.woothemes.com/products/print-invoices-packing-lists/](http://codecanyon.net/item/shipping-details-plugin-for-woocommerce/2018867 )
 
 
 
@@ -378,6 +386,7 @@ http://wpml.org/de/documentation-3/ahnliche-projekte/woocommerce-multilingual-be
 - facebook comments
 - https://wordpress.org/plugins/seo-facebook-comments/
 - https://wordpress.org/plugins/facebook-comments-plugin/
+- [https://wordpress.org/plugins/toolbox/](https://wordpress.org/plugins/toolbox/) - funktionen als module auslagern
 
 ## DOCUMENTATION
 Will happen in this repository. A good guide about using markdown on github:
@@ -385,7 +394,13 @@ Will happen in this repository. A good guide about using markdown on github:
 - Either use iA Writer, Sublime, Atom or a webbased tool like [http://prose.io/](http://prose.io/) to edit markdown files.
 
 
-
+## DEV WORKFLOW FOR SASS
+use gulp with livereload, browsersync, sass sourcemaps to work in chrome dev tools 
+- [https://github.com/dlmanning/gulp-sass](https://github.com/dlmanning/gulp-sass) - gulp sass speeds up the whole thing - using libsass instead of ruby sass…
+- [https://developer.chrome.com/devtools/docs/workspaces](https://developer.chrome.com/devtools/docs/workspaces) - chrome dev tools workspaces
+- [https://medium.com/@toolmantim/getting-started-with-css-sourcemaps-and-in-browser-sass-editing-b4daab987fb0](https://medium.com/@toolmantim/getting-started-with-css-sourcemaps-and-in-browser-sass-editing-b4daab987fb0)
+- [http://www.sitepoint.com/using-source-maps-debug-sass-chrome/](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) - how to do source maps
+- [https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - dark theme for chrome dev tools
 
 
 
