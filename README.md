@@ -27,11 +27,16 @@ Gesetzt:
 - gulp
 
 - normalize
+either use the standard normalize or a scss version. the standard sass version of normalize isn’t working without compass. an older bower package for normalize is available and used right now. 
+	* [https://github.com/JohnAlbin/normalize-scss](https://github.com/JohnAlbin/normalize-scss)
+	* [https://github.com/krisbulman/normalize-libsass](https://github.com/krisbulman/normalize-libsass) - this one is for use with libsass > gulp-sass 
 - bourbon
 - neat / susy
 - bitters
-- refills
-+ pesticide > http://pesticide.io/
+- refills > needs **neat** for some components
++ pesticide - a super nice dev tool
+[http://pesticide.io](http://pesticide.io) - use it and love it!
+	* maybe use it in combination with a “dev” parameter > or leave the switch for on/off > true/false in the main scss file. 
 
 - jquery
 
@@ -280,10 +285,14 @@ Gute Beispiele hierfür:
 - [https://github.com/Automattic/_s](https://github.com/Automattic/_s) [https://github.com/toddmotto/html5blank](https://github.com/toddmotto/html5blank)
 - [https://github.com/digisavvy/some-like-it-neat](https://github.com/digisavvy/some-like-it-neat)
 - [https://github.com/wp-cli/wp-cli](https://github.com/wp-cli/wp-cli)
-- [https://github.com/roots/sage](https://github.com/roots/sage)
+- [https://github.com/roots/sage](https://github.com/roots/sage) -  has a really need workflow, but it uses bootstrap atm.
+	* [http://wptavern.com/roots-starter-theme-for-wordpress-will-become-framework-agnostic-in-2015](http://wptavern.com/roots-starter-theme-for-wordpress-will-become-framework-agnostic-in-2015) - **the roots theme will become framework agnostic in 2015 > might be a good starting point!**
+	* [https://discourse.roots.io/](https://discourse.roots.io/) - talk about roots theme development
 - [https://github.com/bigemployee/BigBlankTheme](https://github.com/bigemployee/BigBlankTheme)
 - [https://github.com/murtaugh/HTML5-Reset-WordPress-Theme](https://github.com/murtaugh/HTML5-Reset-WordPress-Theme)
-
+- [https://github.com/synapticism/wordpress-gulp-bower-sass](https://github.com/synapticism/wordpress-gulp-bower-sass) - another wordpress boilerplate using gulp, bower and sass
+	* [http://synapticism.com/dev/wordpress-theme-development-with-gulp-bower-and-sass/](http://synapticism.com/dev/wordpress-theme-development-with-gulp-bower-and-sass/) - something to read about this boilerplate
+- [https://github.com/zach-adams/cutlass-wp-theme](https://github.com/zach-adams/cutlass-wp-theme) - maybe to much > using different template engine
 
 ### WORDPRESS WOOCOMMERCE
 - [https://github.com/woothemes/storefront](https://github.com/woothemes/storefront)
@@ -403,4 +412,7 @@ use gulp with livereload, browsersync, sass sourcemaps to work in chrome dev too
 - [https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - dark theme for chrome dev tools
 
 
-
+## UNCSS
+- [http://addyosmani.com/blog/removing-unused-css/](http://addyosmani.com/blog/removing-unused-css/) - find and remove unused CSS
+- [https://github.com/giakki/uncss](https://github.com/giakki/uncss)
+- [https://github.com/ben-eb/gulp-uncss](https://github.com/ben-eb/gulp-uncss)
