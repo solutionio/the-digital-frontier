@@ -52,6 +52,17 @@
 - [http://bourbon.io/](http://bourbon.io/)
 - [http://bitters.bourbon.io/](http://bitters.bourbon.io/)
 
+
+## SASS ARCHITECTURE 
+- [http://www.sitepoint.com/architecture-sass-project/](http://www.sitepoint.com/architecture-sass-project/)
+- [http://www.sitepoint.com/look-different-sass-architectures/](http://www.sitepoint.com/look-different-sass-architectures/)
+- [https://github.com/evernote/sass-build-structure](https://github.com/evernote/sass-build-structure)
+- [https://news.layervault.com/stories/32730-ask-dn-how-do-you-structure-your-sass-files-in-a-large-project](https://news.layervault.com/stories/32730-ask-dn-how-do-you-structure-your-sass-files-in-a-large-project)
+- [http://www.infobahndesign.com/how-i-structure-my-sass-projects/](http://www.infobahndesign.com/how-i-structure-my-sass-projects/)
+- [https://medium.com/@wanderingmatt/a-little-structure-for-your-large-sass-project-7fe19ab647fa](https://medium.com/@wanderingmatt/a-little-structure-for-your-large-sass-project-7fe19ab647fa)
+- [http://thesassway.com/beginner/how-to-structure-a-sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+- []()
+
 ## Johannes learning SASS (some notes)
 
 * @extend

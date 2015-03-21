@@ -293,6 +293,15 @@ Gute Beispiele hierfür:
 - [https://github.com/synapticism/wordpress-gulp-bower-sass](https://github.com/synapticism/wordpress-gulp-bower-sass) - another wordpress boilerplate using gulp, bower and sass
 	* [http://synapticism.com/dev/wordpress-theme-development-with-gulp-bower-and-sass/](http://synapticism.com/dev/wordpress-theme-development-with-gulp-bower-and-sass/) - something to read about this boilerplate
 - [https://github.com/zach-adams/cutlass-wp-theme](https://github.com/zach-adams/cutlass-wp-theme) - maybe to much > using different template engine
+- [https://github.com/bueltge/WordPress-Basis-Theme](https://github.com/bueltge/WordPress-Basis-Theme) - altbekannt
+- [https://github.com/bueltge/wordpress-basis-theme-Child-Starter](https://github.com/bueltge/wordpress-basis-theme-Child-Starter) - und das child theme dazu
+
+### WORDPRESS KNOWLEGE / READING LIST
+- [https://css-tricks.com/taking-control-cssjs-wordpress-plugins-load/](https://css-tricks.com/taking-control-cssjs-wordpress-plugins-load/)
+
+### WORDPRESS CHEAT SHEETS
+- [http://www.buildyourownblog.net/blog/time-saving-copypaste-wordpress-cheat-sheet/](http://www.buildyourownblog.net/blog/time-saving-copypaste-wordpress-cheat-sheet/)
+
 
 ### WORDPRESS WOOCOMMERCE
 - [https://github.com/woothemes/storefront](https://github.com/woothemes/storefront)
@@ -416,3 +425,12 @@ use gulp with livereload, browsersync, sass sourcemaps to work in chrome dev too
 - [http://addyosmani.com/blog/removing-unused-css/](http://addyosmani.com/blog/removing-unused-css/) - find and remove unused CSS
 - [https://github.com/giakki/uncss](https://github.com/giakki/uncss)
 - [https://github.com/ben-eb/gulp-uncss](https://github.com/ben-eb/gulp-uncss)
+
+## Meta Tags
+- [https://gist.github.com/kevinSuttle/1997924](https://gist.github.com/kevinSuttle/1997924)
+- [http://davidwalsh.name/facebook-meta-tags](http://davidwalsh.name/facebook-meta-tags)
+- [http://www.quicksprout.com/2013/03/25/social-media-meta-tags-how-to-use-open-graph-and-cards/](http://www.quicksprout.com/2013/03/25/social-media-meta-tags-how-to-use-open-graph-and-cards/)
+
+
+
+
