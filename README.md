@@ -295,6 +295,7 @@ Gute Beispiele hierfür:
 - [https://github.com/zach-adams/cutlass-wp-theme](https://github.com/zach-adams/cutlass-wp-theme) - maybe to much > using different template engine
 - [https://github.com/bueltge/WordPress-Basis-Theme](https://github.com/bueltge/WordPress-Basis-Theme) - altbekannt
 - [https://github.com/bueltge/wordpress-basis-theme-Child-Starter](https://github.com/bueltge/wordpress-basis-theme-Child-Starter) - und das child theme dazu
+- [https://github.com/eddiemachado/bones](https://github.com/eddiemachado/bones) - bones > another boilerplate
 
 ### WORDPRESS KNOWLEGE / READING LIST
 - [https://css-tricks.com/taking-control-cssjs-wordpress-plugins-load/](https://css-tricks.com/taking-control-cssjs-wordpress-plugins-load/)

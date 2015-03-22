@@ -205,7 +205,9 @@ Dafür gibt es verschiedene JS Lösungen.
 - [http://www.homify.de/assets/styleguide.html](http://www.homify.de/assets/styleguide.html)
 - [https://github.com/styleguide](https://github.com/styleguide)
 
-- [http://webkrauts.de/artikel/2014/living-styleguides
+- [http://webkrauts.de/artikel/2014/living-styleguides](http://webkrauts.de/artikel/2014/living-styleguides)
+- [http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/](http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/)
+
 
 ## STYLEGUIDE TOOLS
 - [http://livingstyleguide.org/](http://livingstyleguide.org/)
@@ -218,6 +220,8 @@ Dafür gibt es verschiedene JS Lösungen.
 - [https://github.com/thomasdavis/kaleistyleguide](https://github.com/thomasdavis/kaleistyleguide)
 - [http://styleguide.sc5.io/](http://styleguide.sc5.io/) - another styleguide tool
 - [https://github.com/SC5/sc5-styleguide](https://github.com/SC5/sc5-styleguide) - nice tool which also works with angular projects
+- 
+
 
 > Note to myself. Make the Styleguide based on jekyll would improve the workflow as prototyping can happen based on the same workflow.
 
